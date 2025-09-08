@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Local AI Study Buddy",
+  "description": "An AI-powered study companion that takes a document image, extracts text, and generates summaries, quizzes, and flashcards to aid in learning and revision.",
+  "requestFramePermissions": []
+}
